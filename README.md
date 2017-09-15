@@ -1,3 +1,2 @@
-# helloworld
-demo repository
-The following changes I made have no significance to the whole world even in that case to me neighter.
+# NLP for probabilistic math word problem solving
+In this project math word problms are solved using NLP's NLTK tool kit
